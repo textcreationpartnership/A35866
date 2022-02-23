@@ -1,0 +1,244 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue between a Yorkshire-alderman and Salamanca-doctor, at the Devil by Temple-Bar about swearing</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35866</idno>
+            <idno type="STC">Wing D1300</idno>
+            <idno type="STC">ESTC R12</idno>
+            <idno type="EEBO-CITATION">11774601</idno>
+            <idno type="OCLC">ocm 11774601</idno>
+            <idno type="VID">48926</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35866)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48926)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 488:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue between a Yorkshire-alderman and Salamanca-doctor, at the Devil by Temple-Bar about swearing</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Smith,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:48926:1" rendition="simple:additions"/>
+            <head>A DIALOGUE Between a <hi>Yorkſhire-Alderman</hi> and <hi>Salamanca-Doctor,</hi> at the <hi>Devil</hi> by <hi>Temple-Bar.</hi>
+            </head>
+            <head type="sub">About Swearing.</head>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>HOW now Swear apace, how does our noble Knight of the Poſt?</p>
+            </sp>
+            <sp>
+               <speaker>Ald.</speaker>
+               <p>How now Lie apace, Vicar of Tyborn &amp; Knight of the noble Order of the Halter, what do you at the Conference.</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>Well met noble Sir <hi>P.</hi> this is fortunate that we ſhould be the firſt of the Company, now we may conſult of an Expedient in our preſent Exigence.</p>
+            </sp>
+            <sp>
+               <speaker>Ald.</speaker>
+               <p>If there be any miſcheif on foot, thou art one of the firſt that will have a hand in't. The firſt at the Conference, the firſt at the Devil, the firſt in the Plot, and the firſt in Diſcovery, the firſt in Vil<g ref="char:EOLhyphen"/>any, and I am made the firſt Example.</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>Good Sir, Patience. The Proteſtant Joynor was prefer'd be<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore you, and the Proteſtant Cooper to avoid the ſame Deſtiny ſhew'd <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> fair piair of heels, we muſt have Patience to follow. The way is open, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>here is no other means left for your deliverances, for if it comes once <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o the Pillory amongſt all your beloved Brethren (for whoſe Intereſt you ſtood with the hazard of your Ears) you will hardly find any that will be ſo civil as to ſtand up for you.</p>
+            </sp>
+            <sp>
+               <speaker>Ald.</speaker>
+               <p>Art thou the Saviour of the Nation, the Defender of our Lives and Liberties, haſt thou ſaved our Necks from the Yoak of Tyranny and Slavery, our Throats from a Popiſh Dagger, our City from Fire, and our Kingdome from Invaſions, and canſt thou not ſave the Remnant of a poor Delinquents Ears? Oh Patience.</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>This is your Swearing, oh Patience.</p>
+            </sp>
+            <sp>
+               <speaker>Ald.</speaker>
+               <p>Swear, if that were a crime where wou'dſt thou be exalted?</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>Indeed Swearing is but a Venial Sin, as the times go now, but your forſwearing, and amongſt the Brethren too. <hi>pá, pá.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ald.</speaker>
+               <p>Thou Buggering, Brazen-fac'd, Lanthorn-jaw'd, Tallow<g ref="char:EOLhyphen"/>chap't Leviathan, haſt thou ſworn ſo many honeſt people out of their Lives, told ſo many damnable Lies and Contradictions, and h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt thou the Impudence to upbraid me with Swearing? I am be<g ref="char:EOLhyphen"/>yond all Patience.</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>If I Swore and Ly'd to your knowledg I was paid for't, and if I was forſworn a thouſand times over, I was never catch't in it.</p>
+            </sp>
+            <sp>
+               <speaker>Ald.</speaker>
+               <p>Yes in every particular thou Sworſt to. In the blindeſt Laberinths and dar<g ref="char:EOLhyphen"/>keſt windings of the Plot a blind Man may catch thee. Were not you catch'd at Doctors Commons, before the King and Council and Houſe of Lords, in every Exa<g ref="char:EOLhyphen"/>mination and in every Paragraff of your Narrative, were you not catch'd in your black Bills and your Pilgrims, waſt thou not catch'd in little <hi>Don John</hi> and the Cir<g ref="char:EOLhyphen"/>cumciſed Parſon, and what was your Black Boy <hi>Apple-tree-Will,</hi> Barly Broth, Mum, Chacolat, Order of Magpies, Fire balls of Sheeps Fat, Tormentillios and <hi>Tewxbury</hi>
+                  <pb facs="tcp:48926:2"/>Muſtard Balls, but ſo many Snares to catch credulous Fools, wherein thou waſt catch'd thy ſelf at laſt?</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>If I was, I had the Wit or Impudence to ſtand it out. I was never catch'd by the Ears, for being catch'd in a ſilly Lie.</p>
+            </sp>
+            <sp>
+               <speaker>Ald.</speaker>
+               <p>No, thou art Deſtin'd for another Catch; but I wiſh I had had no Ears when I firſt gave Ear to thy curſed Plots and Forgeries, I had not then ſtood in this danger of looſing them.</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>It is but what your folly deſerves, Was it not enough that you muſt ſtand up for the Cauſe, and the Brethren, but you muſt ſtand up for a Wooden Roof to your Copper Chain, the Pillory even to the hazard of ſtanding upon it, being not only perjur'd for the Brethren, but even to their Eternal ſhame found guilty of that Perjury. Is this your Patience for the Cauſe?</p>
+            </sp>
+            <sp>
+               <speaker>Ald.</speaker>
+               <p>If I am Perjur'd, 'tis upon the Evidence of others, but thou, as if it were not ſufficient to be proov'd perjur'd by others, muſt needs prove perjury upon thy ſelf, by thy own poſitive Teſtimony, for abetting many ſeveral undeniable perjuries, in the Caſe of the Jeſuits, <hi>Wakeman, Marſhal, Carter,</hi> &amp;c. thou ſwor'ſt point blank at <hi>White-Hall,</hi> thou ſaw'ſt Mr. <hi>Turner</hi> in a Conſult at <hi>Wild-Honſe,</hi> and at his Tryal thou ſwor'ſt it was at <hi>Fenwicks</hi> Chamber; didſt thou not ſwear as <hi>Colemans</hi> Tryal, thou never ſaw'ſt Mr. <hi>Langhorn</hi> after <hi>April</hi> 78. and vet at <hi>Langhorns</hi> Tryal, thou ſwor'ſt thou ſaw'ſt him Forty times in <hi>July</hi> following, that was a Rapper.</p>
+            </sp>
+            <sp>
+               <speaker>Dect.</speaker>
+               <p>Did not you ſwear <hi>Pilk—on</hi> did not mean the Duke, when you clapt your hand upon his Mouth after he had expreſt the words? where was our Patience then?</p>
+            </sp>
+            <sp>
+               <speaker>Ald.</speaker>
+               <p>Did'ſt thou not ſwear thou ſaweſt him at Maſs in St. <hi>Jamſes,</hi> through fifteen or ſixteen Stone Walls, and as many double Doors, in his own Cloſet? That was a Swinger.</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>Was it not you and your Accomplices that put me upon that Sham to bring him into the Plot? Made me your Hackney to ſwear and forſwear, as the Devil and Money prompted me? Come, come, I have not Patience any longer; if you allow me not my Life-Guard and Ponſion as formerly, I can turn Cat in Pan as well as and Whig Poet, and be an Evidence againſt you, as well as for you.</p>
+            </sp>
+            <sp>
+               <speaker>Ald.</speaker>
+               <p>Thou haſt Sham'd thy own Plots, and outſwearing all poſſibility, art already become an Evidence againſt thy ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>Well, well, commend me to <hi>Elkanah,</hi> to take up in time, his Ears had hardly elſe atton'd for his Popiſh Succeſſor. I'le write a Narrative I hear of a great Citizen <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> coming over on the ſame Account, if they have Patience to hear.</p>
+            </sp>
+            <sp>
+               <speaker>Ald.</speaker>
+               <p>If the Wind be in that Corner, 'tis time for me to tack about for <hi>Holland,</hi> not a Minute longer for my Ears.</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>Yet while you have 'em, have Patience to hear me one Word, I have been lately with a Great Man in <hi>Drury-Lane.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ald.</speaker>
+               <p>I underſtand you, and how, and how goes on the new Plot, I know you are a Brewing.</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>I have not been there lately, I never paſs by but <hi>Bowman</hi> the Dog has a ſnap at me by the way. Sometimes they upbraid me with the Dukes Health, then out of Deriſion they crie a <hi>Waller,</hi> a <hi>Waller, Pilkington</hi> and <hi>Patience,</hi> then they hang a Halter out of thê Window, and bid me remember the Proteſtant Joyner.</p>
+            </sp>
+            <sp>
+               <speaker>Ald.</speaker>
+               <p>That ſame is a Neſt of notorious Torîes, well, if the Cauſe had gone on our ſide, I had made the Dog too hot for their burning of <hi>Shaftsbury,</hi> but we muſt Pray for Patience, and when I am gone, Pray ſtill that the Lord may grant you Patience to go along with you in the great Work. Farewel.</p>
+               <p>He was no ſooner gone but the Company came in, when there began immediatly a great conteſt about ſetting a new form of Government, the Army and Militia, which being different from that of the Doctors former Model in St. <hi>Omers,</hi> had like to have raiſed the Devil amongſt them: but <hi>Shad—ll</hi> came in with his Lute, and allayed the Evil Spirit.</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Smith.</hi> 1683,</p>
+         </div>
+      </back>
+   </text>
+</TEI>
